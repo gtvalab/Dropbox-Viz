@@ -1,0 +1,45 @@
+#Ignore file for java project in hg
+syntax: glob
+
+#
+# ignore log files
+#
+*.log
+*.log.*
+
+#
+# Hg stupid stuff
+#
+*.orig
+
+#
+# Java classes
+#
+*.class
+
+#
+# NetBeans Project Stuff
+#
+nbproject/*
+*.netbeans_automatic_build
+dist/*
+
+nbproject/private/private.properties
+nbproject/private/private.xml
+
+nbproject/build-impl.xml
+nbproject/genfiles.properties
+
+#
+# Junit
+#
+build/*
+build/junit*
+build/test*
+build/classes*
+
+#
+# Mac OS X Stuff
+#
+.DS_Store
+*~

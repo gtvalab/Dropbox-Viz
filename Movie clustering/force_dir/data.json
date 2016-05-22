@@ -1,0 +1,462 @@
+{
+  "links": [
+    {
+      "target": 1,
+      "value": 0.6533307882460252,
+      "source": 0
+    },
+    {
+      "target": 2,
+      "value": 0.695764582157815,
+      "source": 0
+    },
+    {
+      "target": 7,
+      "value": 0.5382697410680073,
+      "source": 0
+    },
+    {
+      "target": 0,
+      "value": 0.6533307882460252,
+      "source": 1
+    },
+    {
+      "target": 2,
+      "value": 0.9130370850141672,
+      "source": 1
+    },
+    {
+      "target": 5,
+      "value": 0.7172643019306937,
+      "source": 1
+    },
+    {
+      "target": 7,
+      "value": 0.6611768229214567,
+      "source": 1
+    },
+    {
+      "target": 8,
+      "value": 0.4168623735155907,
+      "source": 1
+    },
+    {
+      "target": 9,
+      "value": 0.5609486405477688,
+      "source": 1
+    },
+    {
+      "target": 10,
+      "value": 0.7278434351513521,
+      "source": 1
+    },
+    {
+      "target": 11,
+      "value": 0.26247647114057077,
+      "source": 1
+    },
+    {
+      "target": 12,
+      "value": 0.45865876308124215,
+      "source": 1
+    },
+    {
+      "target": 13,
+      "value": 0.5623581632618536,
+      "source": 1
+    },
+    {
+      "target": 0,
+      "value": 0.695764582157815,
+      "source": 2
+    },
+    {
+      "target": 1,
+      "value": 0.9130370850141672,
+      "source": 2
+    },
+    {
+      "target": 5,
+      "value": 0.9352210015354427,
+      "source": 2
+    },
+    {
+      "target": 9,
+      "value": 0.9144891977173869,
+      "source": 2
+    },
+    {
+      "target": 10,
+      "value": 0.9289287162203199,
+      "source": 2
+    },
+    {
+      "target": 11,
+      "value": 0.9342644679173022,
+      "source": 2
+    },
+    {
+      "target": 13,
+      "value": 0.599985491025385,
+      "source": 2
+    },
+    {
+      "target": 5,
+      "value": 0.7800623559798963,
+      "source": 3
+    },
+    {
+      "target": 6,
+      "value": 0.6803691595499138,
+      "source": 4
+    },
+    {
+      "target": 8,
+      "value": 0.6535278409477218,
+      "source": 4
+    },
+    {
+      "target": 12,
+      "value": 0.6311444340256556,
+      "source": 4
+    },
+    {
+      "target": 1,
+      "value": 0.7172643019306937,
+      "source": 5
+    },
+    {
+      "target": 2,
+      "value": 0.9352210015354427,
+      "source": 5
+    },
+    {
+      "target": 3,
+      "value": 0.7800623559798963,
+      "source": 5
+    },
+    {
+      "target": 7,
+      "value": 0.7937924412449348,
+      "source": 5
+    },
+    {
+      "target": 9,
+      "value": 0.75608091858424,
+      "source": 5
+    },
+    {
+      "target": 10,
+      "value": 0.014775425611522005,
+      "source": 5
+    },
+    {
+      "target": 11,
+      "value": 0.9295198747559477,
+      "source": 5
+    },
+    {
+      "target": 12,
+      "value": 0.5967529013847471,
+      "source": 5
+    },
+    {
+      "target": 13,
+      "value": 0.8797696178217388,
+      "source": 5
+    },
+    {
+      "target": 4,
+      "value": 0.6803691595499138,
+      "source": 6
+    },
+    {
+      "target": 12,
+      "value": 0.7504402631384699,
+      "source": 6
+    },
+    {
+      "target": 0,
+      "value": 0.5382697410680073,
+      "source": 7
+    },
+    {
+      "target": 1,
+      "value": 0.6611768229214567,
+      "source": 7
+    },
+    {
+      "target": 5,
+      "value": 0.7937924412449348,
+      "source": 7
+    },
+    {
+      "target": 9,
+      "value": 0.30695427223504834,
+      "source": 7
+    },
+    {
+      "target": 10,
+      "value": 0.7737625422873002,
+      "source": 7
+    },
+    {
+      "target": 1,
+      "value": 0.4168623735155907,
+      "source": 8
+    },
+    {
+      "target": 4,
+      "value": 0.6535278409477218,
+      "source": 8
+    },
+    {
+      "target": 9,
+      "value": 0.0,
+      "source": 8
+    },
+    {
+      "target": 10,
+      "value": 0.7312096512242904,
+      "source": 8
+    },
+    {
+      "target": 11,
+      "value": 0.5592044935402763,
+      "source": 8
+    },
+    {
+      "target": 13,
+      "value": 0.7814375694978908,
+      "source": 8
+    },
+    {
+      "target": 1,
+      "value": 0.5609486405477688,
+      "source": 9
+    },
+    {
+      "target": 2,
+      "value": 0.9144891977173869,
+      "source": 9
+    },
+    {
+      "target": 5,
+      "value": 0.75608091858424,
+      "source": 9
+    },
+    {
+      "target": 7,
+      "value": 0.30695427223504834,
+      "source": 9
+    },
+    {
+      "target": 8,
+      "value": 0.0,
+      "source": 9
+    },
+    {
+      "target": 10,
+      "value": 0.7323879240883399,
+      "source": 9
+    },
+    {
+      "target": 11,
+      "value": 0.7178802492657558,
+      "source": 9
+    },
+    {
+      "target": 13,
+      "value": 0.7337736655322037,
+      "source": 9
+    },
+    {
+      "target": 1,
+      "value": 0.7278434351513521,
+      "source": 10
+    },
+    {
+      "target": 2,
+      "value": 0.9289287162203199,
+      "source": 10
+    },
+    {
+      "target": 5,
+      "value": 0.014775425611522005,
+      "source": 10
+    },
+    {
+      "target": 7,
+      "value": 0.7737625422873002,
+      "source": 10
+    },
+    {
+      "target": 8,
+      "value": 0.7312096512242904,
+      "source": 10
+    },
+    {
+      "target": 9,
+      "value": 0.7323879240883399,
+      "source": 10
+    },
+    {
+      "target": 11,
+      "value": 0.3972517593010849,
+      "source": 10
+    },
+    {
+      "target": 13,
+      "value": 0.7552120279057309,
+      "source": 10
+    },
+    {
+      "target": 1,
+      "value": 0.26247647114057077,
+      "source": 11
+    },
+    {
+      "target": 2,
+      "value": 0.9342644679173022,
+      "source": 11
+    },
+    {
+      "target": 5,
+      "value": 0.9295198747559477,
+      "source": 11
+    },
+    {
+      "target": 8,
+      "value": 0.5592044935402763,
+      "source": 11
+    },
+    {
+      "target": 9,
+      "value": 0.7178802492657558,
+      "source": 11
+    },
+    {
+      "target": 10,
+      "value": 0.3972517593010849,
+      "source": 11
+    },
+    {
+      "target": 13,
+      "value": 0.7953412986019293,
+      "source": 11
+    },
+    {
+      "target": 1,
+      "value": 0.45865876308124215,
+      "source": 12
+    },
+    {
+      "target": 4,
+      "value": 0.6311444340256556,
+      "source": 12
+    },
+    {
+      "target": 5,
+      "value": 0.5967529013847471,
+      "source": 12
+    },
+    {
+      "target": 6,
+      "value": 0.7504402631384699,
+      "source": 12
+    },
+    {
+      "target": 1,
+      "value": 0.5623581632618536,
+      "source": 13
+    },
+    {
+      "target": 2,
+      "value": 0.599985491025385,
+      "source": 13
+    },
+    {
+      "target": 5,
+      "value": 0.8797696178217388,
+      "source": 13
+    },
+    {
+      "target": 8,
+      "value": 0.7814375694978908,
+      "source": 13
+    },
+    {
+      "target": 9,
+      "value": 0.7337736655322037,
+      "source": 13
+    },
+    {
+      "target": 10,
+      "value": 0.7552120279057309,
+      "source": 13
+    },
+    {
+      "target": 11,
+      "value": 0.7953412986019293,
+      "source": 13
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Whiplash",
+      "group": 1
+    },
+    {
+      "name": "Room",
+      "group": 0
+    },
+    {
+      "name": "The Shawshank Redemption",
+      "group": 1
+    },
+    {
+      "name": "Interstellar",
+      "group": 0
+    },
+    {
+      "name": "Paperman",
+      "group": 2
+    },
+    {
+      "name": "The Godfather",
+      "group": 0
+    },
+    {
+      "name": "Presto",
+      "group": 2
+    },
+    {
+      "name": "The Intouchables",
+      "group": 0
+    },
+    {
+      "name": "Spirited Away",
+      "group": 0
+    },
+    {
+      "name": "Feast",
+      "group": 0
+    },
+    {
+      "name": "Life Is Beautiful",
+      "group": 0
+    },
+    {
+      "name": "Grave of the Fireflies",
+      "group": 0
+    },
+    {
+      "name": "Guardians of the Galaxy",
+      "group": 2
+    },
+    {
+      "name": "Inside Out",
+      "group": 1
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+::selection {
+    background-color:yellow;
+}
+p {
+    max-width:70%;
+    padding-right:30%;
+    font-family:serif;
+    line-height:2em;
+}
+div.commentBox {
+    display:inline;
+    float:left;
+    clear:right;
+    position:relative;
+    top:1em;
+    margin-right:-30%;
+    margin-bottom:0.5em;
+    width:25%;
+    width: calc(30% - 25px);
+    border: 2px ridge gray;
+    padding: 5px 10px;
+    min-height:2em;
+    font-family:sans-serif;
+    font-size:smaller;
+    line-height:1.5em;
+    background-color: lightyellow;    
+}
+span.commentMarker {
+    position:relative;
+    visibility:hidden;
+}
+div.commentBox:hover + span.commentMarker,
+div.commentBox:focus + span.commentMarker {
+    visibility:visible;
+}
+span.commentMarker::before {
+    position:absolute;
+    top:-1em;
+    content:"*";
+    color:red;
+} /*
+span.commentMarker::after {
+    position:absolute;
+    width:100em;
+    content:"";
+    border-bottom: red 2px solid;
+}*/

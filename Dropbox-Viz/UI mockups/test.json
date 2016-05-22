@@ -1,0 +1,128 @@
+{
+  "name": "root",
+  "children": [
+    {
+      "name": "BDH",
+      "children": [
+        {
+          "name": "allbaselinefeatures.csv"
+        },
+        {
+          "name": "baselinefeatures.csv"
+        },
+        {
+          "name": "CalculateFeatures1.sql"
+        }
+      ]
+    },
+    {
+      "name": "BDH Project final",
+      "children": [
+        {
+          "name": "project_code.zip"
+        }
+      ]
+    },
+    {
+      "name": "coursework",
+      "children": [
+        {
+          "name": "Fall 15",
+          "children": [
+            {
+              "name": "Computability and Algorithms- 6505"
+            },
+            {
+              "name": "Computer Networks"
+            },
+            {
+              "name": "Data and visual analytics"
+            }
+          ]
+        },
+        {
+          "name": "Georgia Tech logos",
+          "children": [
+            {
+              "name": "71DsR0V-sLL._SL1500_.jpg"
+            },
+            {
+              "name": "buzz.gif"
+            }
+          ]
+        },
+        {
+          "name": "Georgia Tech logos.zip"
+        }
+      ]
+    },
+    {
+      "name": "Gatech_fall15",
+      "children": [
+        {
+          "name": "cs_decision.pdf"
+        },
+        {
+          "name": "gre.pdf"
+        },
+        {
+          "name": "i20_new"
+        }
+      ]
+    },
+    {
+      "name": "IMG_20150702_160602.jpg"
+    },
+    {
+      "name": "IMG_20150702_160653.jpg"
+    },
+    {
+      "name": "Important docs",
+      "children": [
+        {
+          "name": "Aditi"
+        },
+        {
+          "name": "Common"
+        },
+        {
+          "name": "Pradeep"
+        }
+      ]
+    },
+    {
+      "name": "Interview ebooks",
+      "children": [
+        {
+          "name": "Interview"
+        }
+      ]
+    },
+    {
+      "name": "kindle books",
+      "children": [
+        {
+          "name": "gardenofepicurus00fran.mobi"
+        },
+        {
+          "name": "India After Gandhi - Guha, Ramachandra.mobi"
+        },
+        {
+          "name": "MagicCatalog.mobi"
+        }
+      ]
+    },
+    {
+      "name": "Playdom stuff",
+      "children": []
+    },
+    {
+      "name": "Projectplace",
+      "children": []
+    },
+    {
+      "name": "random",
+      "children": []
+    }
+  ]
+}
